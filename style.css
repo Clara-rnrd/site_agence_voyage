@@ -27,5 +27,5 @@ nav a {
 .img_header{
     width: 100%;
     height: 400px;
-    background-image: url()
+    background-image: url('.assets/')
 }
